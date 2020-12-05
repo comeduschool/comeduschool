@@ -4,11 +4,11 @@ Hello, I'm teaching programs for everyone.
 - 2020 Goals: Start new business.
 
 ### Contact to me:
-[<img align="left" alt="c++" width="22px" src="resources/gmail.svg">] : comeduschool@gmail.com
+<img align="left" alt="c++" src="resources/gmail.svg"> : comeduschool@gmail.com
 
 ### My skills and tools:
 - Embedded Software:
-    [<img align="left" alt="c++" width="22px" src="resources/cpp.svg">]
+    - <img align="left" alt="c++" width="22px" src="resources/cpp.svg">
 - Services:
 - Data:
 
